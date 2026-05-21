@@ -8,3 +8,4 @@ The app includes features like : 1. Bass Boost ( Working )
 
 App has simple ui/ux and its easy to use 
  
+Note: for permission open settings > apps > Resono > permissions > then allow the permission, This is needed as there is no pop-up for permission in app
